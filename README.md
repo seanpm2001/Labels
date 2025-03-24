@@ -17,7 +17,10 @@ As of 2024.01.01, I am no longer including `txt` `md` `gpl3` `gplv3` as valid re
 
 ## My personal labels
 
+TODO: Sort A-Z
+
 [`copyleftist`]
+[`diarist`]
 [`activist`]
 [`rebel`]
 [`american`]
@@ -71,6 +74,6 @@ Some labels were removed in the final draft, mostly the historian labels, as the
 
 # File info
 
-**File version:** `1 (2024, Thursday, January 4th at 10:11 pm PST)`
+**File version:** `2 (2025, Sunday, March 23rd at 07:35 pm PST)`
 
 ***
