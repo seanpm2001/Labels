@@ -17,42 +17,43 @@ As of 2024.01.01, I am no longer including `txt` `md` `gpl3` `gplv3` as valid re
 
 ## My personal labels
 
-TODO: Sort A-Z
+> **Note to self:** _Feel free to add to this list whenever desired, even if it makes for a 1 line change for a single days commit._
 
-[`copyleftist`]
-[`diarist`]
+> **Note:** _List is in A-Z order_
+
 [`activist`]
-[`rebel`]
 [`american`]
-[`nerd`]
-[`geek`]
-[`autistic`]
-[`eccentric`]
-[`programmer`]
-[`writer`]
-[`documenter`]
-[`degoogler`]
-[`pro-ukrainian`]
-[`pro-democracy`]
 [`anti-copyright`]
 [`anti-drm`]
 [`anti-trademarks`]
+[`archivist`]
+[`autistic`]
+[`copyleftist`]
+[`degoogler`]
+[`diarist`]
+[`documenter`]
+[`eccentric`]
+[`english-expert`]
+[`etymologist`]
+[`former-iOS-user`]
+[`former-windows-user`]
+[`geek`]
+[`history-buff`]
 [`idea-factory`]
 [`introvert`]
 [`inventor`]
-[`english-expert`]
-[`etymologist`]
-[`NEET`]
 [`language-collector`]
 [`language-savant`]
-[`history-buff`]
-[`picky-eater`]
 [`linux-user`]
-[`former-windows-user`]
-[`former-iOS-user`]
-[`archivist`]
-[`activist`]
+[`NEET`]
+[`nerd`]
+[`picky-eater`]
 [`poet`]
+[`pro-democracy`]
+[`pro-ukrainian`]
+[`programmer`]
+[`rebel`]
+[`writer`]
 
 ## Original draft (2024, January 1st)
 
@@ -74,6 +75,7 @@ Some labels were removed in the final draft, mostly the historian labels, as the
 
 # File info
 
-**File version:** `2 (2025, Sunday, March 23rd at 07:35 pm PST)`
+- **File version:** `3 (2025, Monday, March 24th at 04:42 pm PST)`
+- **Line count (including blank lines and compiler line):** `82`
 
 ***
